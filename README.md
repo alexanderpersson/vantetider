@@ -3,9 +3,9 @@ vantetider
 
 Api documentation for vantetider which lists time to operation in sweden. 
 
-[Site url](http://www.vantetider.se/)
+[Site url](http://www.vantetider.se/): http://www.vantetider.se/
 
-[Api url](http://www.vantetider.se/api/Ajax/)
+[Api url](http://www.vantetider.se/api/Ajax/): http://www.vantetider.se/api/Ajax/
 
 The api consist of two (known) methods, one to get the available services linked to a category and the other to list the waiting time and capacity for that service. 
 
