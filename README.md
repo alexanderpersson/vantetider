@@ -14,9 +14,9 @@ Get services
 /GetServicesByArea/{id}
 
 Where {id} is either:
-  1. Visit
-  2. Examination
-  3. Operation
+  * 2. Examination
+  * 3. Operation
+  * 4. Visit
 
 Response is in json and looks like: 
 
